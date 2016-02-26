@@ -1,0 +1,16 @@
+{
+  "author": "Alan Tsai",
+  "license": "ISC",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "express-jwt": "^3.3.0",
+    "jsonwebtoken": "^5.7.0",
+    "method-override": "latest",
+    "mongoose": "latest",
+    "morgan": "latest",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
